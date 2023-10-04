@@ -8,7 +8,7 @@ Este é um simples gerador de senhas em Python que permite criar senhas seguras 
 
 2. Clone ou faça o download deste repositório para o seu computador.
 
-3. Execute o script `passGenerator.py` usando o seguinte comando:
+3. Execute o script `PassGenerator.py` usando o seguinte comando:
 
    ```bash
-   python passGenerator.py
+   python PassGenerator.py
