@@ -11,4 +11,4 @@ Este é um simples gerador de senhas em Python que permite criar senhas seguras 
 3. Execute o script `passGenerator.py` usando o seguinte comando:
 
    ```bash
-   python oassGenerator.py
+   python passGenerator.py
